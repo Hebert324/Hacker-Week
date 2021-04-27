@@ -1,6 +1,6 @@
 # Hacker-Week
  
-### Nesse projeto fizemos uma pagina de captura para um WorkShop, aonde a pagina de cadastra tem integração com o MailChimp para enviar emails para as pessoas cadastradas no site do workshop.
+#### Nesse projeto fizemos uma pagina de captura para um WorkShop, aonde a pagina de cadastra tem integração com o MailChimp para enviar emails para as pessoas cadastradas no site do workshop.
 
 ## Tecnologias:
 
